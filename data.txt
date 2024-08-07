@@ -1,0 +1,159 @@
+#0
+Author: Dan Brown
+Title: The Da Vinci Code
+Genre: mystery, thriller
+Year: 2003
+Pages: 454
+Date of completion: 2021-12-15
+
+#1
+Author: J.K. Rowling
+Title: Harry Potter and the Sorcerer's Stone
+Genre: adventure, fantasy
+Year: 1997
+Pages: 309
+Date of completion: 2020-06-20
+
+#2
+Author: George Orwell
+Title: 1984
+Genre: dystopian, science fiction
+Year: 1949
+Pages: 328
+Date of completion: 2019-03-01
+
+#3
+Author: J.R.R. Tolkien
+Title: The Hobbit
+Genre: adventure, fantasy
+Year: 1937
+Pages: 310
+Date of completion: 2018-11-10
+
+#4
+Author: Harper Lee
+Title: To Kill a Mockingbird
+Genre: classic, historical fiction
+Year: 1960
+Pages: 281
+Date of completion: 2017-05-23
+
+#5
+Author: F. Scott Fitzgerald
+Title: The Great Gatsby
+Genre: classic, novel
+Year: 1925
+Pages: 180
+Date of completion: 2022-04-17
+
+#6
+Author: Markus Zusak
+Title: The Book Thief
+Genre: historical fiction, young adult
+Year: 2005
+Pages: 552
+Date of completion: 2023-01-08
+
+#7
+Author: Jane Austen
+Title: Pride and Prejudice
+Genre: classic, romance
+Year: 1813
+Pages: 279
+Date of completion: 2021-07-04
+
+#8
+Author: Mary Shelley
+Title: Frankenstein
+Genre: horror, science fiction
+Year: 1818
+Pages: 280
+Date of completion: 2018-10-29
+
+#9
+Author: Ray Bradbury
+Title: Fahrenheit 451
+Genre: dystopian, science fiction
+Year: 1953
+Pages: 194
+Date of completion: 2020-08-14
+
+#10
+Author: Dan Brown
+Title: Angels and Demons
+Genre: mystery, thriller
+Year: 2000
+Pages: 616
+Date of completion: 2019-04-12
+
+#11
+Author: J.K. Rowling
+Title: Harry Potter and the Chamber of Secrets
+Genre: adventure, fantasy
+Year: 1998
+Pages: 341
+Date of completion: 2020-07-15
+
+#12
+Author: George Orwell
+Title: Animal Farm
+Genre: political satire, allegory
+Year: 1945
+Pages: 112
+Date of completion: 2019-02-10
+
+#13
+Author: J.R.R. Tolkien
+Title: The Lord of the Rings: The Fellowship of the Ring
+Genre: adventure, fantasy
+Year: 1954
+Pages: 423
+Date of completion: 2018-12-20
+
+#14
+Author: Harper Lee
+Title: Go Set a Watchman
+Genre: classic, historical fiction
+Year: 2015
+Pages: 278
+Date of completion: 2017-09-11
+
+#15
+Author: F. Scott Fitzgerald
+Title: Tender Is the Night
+Genre: classic, novel
+Year: 1934
+Pages: 317
+Date of completion: 2022-05-22
+
+#16
+Author: Markus Zusak
+Title: I Am the Messenger
+Genre: young adult, contemporary
+Year: 2002
+Pages: 357
+Date of completion: 2023-02-20
+
+#17
+Author: Jane Austen
+Title: Sense and Sensibility
+Genre: classic, romance
+Year: 1811
+Pages: 374
+Date of completion: 2021-08-15
+
+#18
+Author: Mary Shelley
+Title: The Last Man
+Genre: dystopian, science fiction
+Year: 1826
+Pages: 432
+Date of completion: 2018-11-01
+
+#19
+Author: Ray Bradbury
+Title: The Martian Chronicles
+Genre: science fiction
+Year: 1950
+Pages: 222
+Date of completion: 2020-09-05
